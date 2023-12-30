@@ -1,0 +1,20 @@
+{"intents":
+[
+{"tag":"greeting",
+"patterns":["hello","hi","hey","slt","slm","ahla","waa","waaa","wa","yo"],
+"responses":["ahla","hi","wassup","yo","waa"]},
+
+{"tag":"goodbye",
+"patterns":["goodbye","see ya","cya","bye","aya rakka7 jwwk","ciao"],
+"responses":["bye","goodbye","aya seyes rou7ek^^","bye :)"]},
+
+{"tag":"name",
+"patterns":["what is your name?","chesmek?","what should I call you?"],
+"responses":["ahla","hi","wassup","yo","waa"]},
+
+{"tag":"age",
+"patterns":["how old are you","what is your age ","how old","9adech 3omrek"],
+"responses":["ahla","hi","wassup","yo","waa"]}
+
+]
+}
